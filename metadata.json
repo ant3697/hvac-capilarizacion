@@ -1,0 +1,6 @@
+{
+  "name": "Selector de Tubos Capilares",
+  "description": "Herramienta de cálculo y selección de tubos capilares para refrigeración con unidades del Sistema Internacional (S.I.).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
